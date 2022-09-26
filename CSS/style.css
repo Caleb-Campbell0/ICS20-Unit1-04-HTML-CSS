@@ -5,12 +5,14 @@
 body {
   background-color: turquoise;
 }
+
 #my-header {
-  background-color: rgb(100, 100, 100);
-  color: hsl(147, 50%, 47%);
+  background-color: rgb(100 100 100);
+  color: hsl(147deg 50% 47%);
   padding: 40px;
   text-align: center;
 }
+
 p {
   background-color: cyan;
 }
